@@ -17,3 +17,5 @@ HTML/CSS works with `Tailwind`. \
 For display **Entities**, AG-Grid has been used. \
 `Form` is displayed in modal created by `Headless-UI`. \
 Client and Server is connected by `Apollo with GraphQL`.
+
+![image](https://github.com/konradbolek/vertuoza-exercice/assets/17702432/5371afdc-ff70-43a0-855d-26cc68660e94)
