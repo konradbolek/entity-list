@@ -1,5 +1,5 @@
 
-# vertuoza-exercice
+# Exercice
 
 ## Start project
 
